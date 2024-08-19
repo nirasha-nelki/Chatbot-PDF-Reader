@@ -18,7 +18,7 @@ This application is a conversational AI assistant that can answer questions base
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chatbot-pdf-reader.git
+    git clone https://github.com/nirasha-nelki/Chatbot-PDF-Reader.git
     cd chatbot-pdf-reader
     ```
 
